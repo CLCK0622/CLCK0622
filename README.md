@@ -1,7 +1,7 @@
 ### Hi there 👋 I am Kevin Zhong, aka CLCK!
 
-![CLCK0622's github stats](https://github-readme-stats.vercel.app/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CLCK0622&hide=TeX&layout=compact)
+![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&layout=compact)
 
 * ✉️ `zhongyi070622@163.com`
 * 🖥 Windows 11 + Clion / MacOS 13 + VSCode
