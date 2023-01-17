@@ -1,11 +1,11 @@
 ### Hi there 👋 I am Kevin Zhong, aka CLCK!
 
-![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true)
-![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&layout=compact)
+![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true&card_width=500)
+![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&langs_count=8&theme=buefy&custom_title=Kevin%20Zhong's%20Most%20Used%20Languages&layout=compact&card_width=450)
 
 * ✉️ `zhongyi070622@163.com`
 * 🖥 Windows 11 + Clion / MacOS 13 + VSCode
-* 🔨 Ready to contribute with C++/HTML/Java/Python!
+* 🔨 Ready to contribute with C++/HTML/Java/JavaScript!
 * 📝 [Blog](https://pages.clckblog.space) and [Home Page](https://www.clckblog.space)
 * [Twitter](https://twitter.com/KevinZh19316459)
 * [Telegram](https://t.me/CLCK0622)
