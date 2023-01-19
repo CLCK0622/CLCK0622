@@ -2,7 +2,7 @@
 
 [![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true&card_width=500&include_all_commits=true)](https://readme-stats.clckblog.space/)
 
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&langs_count=8&theme=buefy&custom_title=Kevin%20Zhong's%20Most%20Used%20Languages&layout=compact&card_width=450)](https://readme-stats.clckblog.space/)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&langs_count=10&theme=buefy&custom_title=Kevin%20Zhong's%20Most%20Used%20Languages&layout=compact&card_width=450&hide=G-code)](https://readme-stats.clckblog.space/)
 
 * ✉️ `zhongyi070622@163.com`
 * 🖥 Windows 11 / MacOS 12 + VSCode / JetBrains
