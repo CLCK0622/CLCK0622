@@ -11,6 +11,7 @@
 * [Twitter](https://twitter.com/KevinZh19316459)
 * [Telegram](https://t.me/CLCK0622)
 * 🎮 Play on [Steam](https://steamcommunity.com/id/zhongyi070622/) and [Epic](https://store.epicgames.com/zh-CN/u/3e733c852de04da686cca0abf85adda7)
+* <a rel="me" href="https://mstdn.social/@CLCK0622">Mastodon</a>
 
 ### ⚡ Technologies
 
