@@ -5,8 +5,8 @@
 [![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&langs_count=10&theme=buefy&custom_title=Kevin%20Zhong's%20Most%20Used%20Languages&layout=compact&card_width=450&hide=G-code,C,CMake,Makefile)](https://readme-stats.clckblog.space/)
 
 * ✉️ `zhongyi070622@163.com`
-* 🖥 Windows 11 / MacOS 12 + VSCode / JetBrains
-* 🔨 Ready to contribute with C++/HTML/Java/JavaScript!
+* 🖥 Windows 11 / MacOS 14 + VSCode / JetBrains
+* 🔨 Ready to contribute with C++/HTML/CSS/Java/JavaScript!
 * 📝 [Blog](https://pages.clckblog.space) and [Home Page](https://www.clckblog.space)
 * [Twitter](https://twitter.com/KevinZh19316459)
 * [Telegram](https://t.me/CLCK0622)
