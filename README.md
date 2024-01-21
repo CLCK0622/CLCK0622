@@ -1,3 +1,5 @@
+<div style="align: center;">
+  
 ### Hi there 👋 I am Kevin Zhong, aka CLCK!
 
 [![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true&card_width=500&include_all_commits=true)](https://readme-stats.clckblog.space/)
@@ -21,3 +23,5 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+</div>
