@@ -1,4 +1,4 @@
-<center>
+<p align="center">
   
 ### Hi there 👋 I am Kevin Zhong, aka CLCK!
 
@@ -24,4 +24,4 @@
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-</center>
+</p>
