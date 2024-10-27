@@ -2,8 +2,7 @@
   
 ### Hi there 👋 I am Kevin Zhong, aka CLCK!
 
-[![CLCK0622's github stats](https://readme-stats.clckblog.space/api?username=CLCK0622&theme=buefy&count_private=true&show_icons=true&card_width=400&include_all_commits=true)](https://readme-stats.clckblog.space/)
-[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=CLCK0622&langs_count=8&theme=buefy&custom_title=Kevin%20Zhong's%20Most%20Used%20Languages&layout=compact&card_width=350&hide=G-code,C,CMake,Makefile)](https://readme-stats.clckblog.space/)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CLCK0622?cardType=level-alternate&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ✉️ `zhongyi070622@163.com` `zhongyi070622@gmail.com` `clck0622@163.com`
 
