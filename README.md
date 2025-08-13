@@ -10,9 +10,9 @@
 
 🔨 Always ready to contribute!
 
-📝 [Blog](https://pages.clckblog.space) and [Home Page](https://www.clckblog.space)
+📝 [Blog](https://blog.clckkkkk.site) and [Home Page](https://www.clckkkkk.site)
 
-📞[Twitter](https://twitter.com/CLCK0622) [Telegram](https://t.me/CLCK0622) <a rel="me" href="https://mstdn.social/@CLCK0622">Mastodon</a>
+📞[Twitter](https://twitter.com/CLCKKKKK) [Telegram](https://t.me/CLCKKKKK) <a rel="me" href="https://mastodon.social/@CLCKKKKK">Mastodon</a>
 
 🎮 Play on [Steam](https://steamcommunity.com/id/zhongyi070622/) and [Epic](https://store.epicgames.com/zh-CN/u/3e733c852de04da686cca0abf85adda7)
 
