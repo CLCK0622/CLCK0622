@@ -4,17 +4,11 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CLCK0622?cardType=level-alternate&preferLogin=false)](https://git.io/awesome-stats-card)
 
-✉️ `zhongyi070622@163.com` `zhongyi070622@gmail.com` `clck0622@163.com`
-
 🖥 Windows 11 / MacOS 14 + VSCode / JetBrains
 
 🔨 Always ready to contribute!
 
 📝 [Blog](https://blog.clckkkkk.site) and [Home Page](https://www.clckkkkk.site)
-
-📞[Twitter](https://twitter.com/CLCKKKKK) [Telegram](https://t.me/CLCKKKKK) <a rel="me" href="https://mastodon.social/@CLCKKKKK">Mastodon</a>
-
-🎮 Play on [Steam](https://steamcommunity.com/id/zhongyi070622/) and [Epic](https://store.epicgames.com/zh-CN/u/3e733c852de04da686cca0abf85adda7)
 
 ### ⚡ Technologies
 
