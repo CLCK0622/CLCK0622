@@ -4,7 +4,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CLCK0622?cardType=level-alternate&preferLogin=false)](https://git.io/awesome-stats-card)
 
-🖥 Windows 11 / MacOS 14 + VSCode / JetBrains
+🖥 Windows 11 / MacOS 26 + JetBrains
 
 🔨 Always ready to contribute!
 
