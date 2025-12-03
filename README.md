@@ -8,7 +8,7 @@
 
 🔨 Always ready to contribute!
 
-📝 [Blog](https://blog.clckkkkk.site) and [Home Page](https://www.clckkkkk.site)
+📝 [Blog](https://www.clckkkkk.site) and [Home Page](https://www.clckkkkk.site)
 
 ### ⚡ Technologies
 
